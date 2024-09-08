@@ -11,4 +11,4 @@ Project Highlights:
 💡 Data-driven insights to optimize marketing strategies.
 
 This project helped me enhance my SQL querying skills while providing actionable insights that could drive business performance in the food industry.
-Feel free to check out my detailed project and connect for any feedback or collaboration opportunities!
+Feel free to check out my detailed project and connect for any feedback or collaboration opportunities.
